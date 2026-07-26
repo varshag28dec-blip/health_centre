@@ -1,0 +1,101 @@
+Medicine_Name,Batch_Number,Quantity_In,Quantity_Out,Balance,Days_To_Expiry,Manufacturer,Category,Need_Attention
+Vitamin C,BT001,405,45,360,-57,Mankind,Capsule,Yes
+Paracetamol,BT002,113,18,95,3,Sun Pharma,Injection,Yes
+ORS,BT003,90,52,38,187,Mankind,Capsule,No
+Azithromycin,BT004,189,29,160,-4,Dr Reddy,Syrup,Yes
+Vitamin C,BT005,238,36,202,288,Sun Pharma,Tablet,No
+ORS,BT006,492,32,460,82,,Tablet,No
+Insulin,BT007,344,312,32,-90,Abbott,Tablet,Yes
+Ibuprofen,BT008,473,406,67,117,Cipla,Syrup,No
+Insulin,BT009,215,170,45,-5,Sun Pharma,Capsule,Yes
+Insulin,BT010,182,39,143,22,Sun Pharma,Syrup,Yes
+Paracetamol,BT011,236,127,109,-39,Cipla,Tablet,Yes
+Pantoprazole,BT012,413,291,122,96,Abbott,Tablet,No
+Azithromycin,BT013,147,114,33,59,Dr Reddy,Injection,No
+Azithromycin,BT014,421,406,15,140,Sun Pharma,Capsule,Yes
+Metformin,BT015,353,335,18,351,Dr Reddy,Injection,Yes
+Metformin,BT016,219,18,201,180,Sun Pharma,Injection,No
+Insulin,BT017,220,145,75,253,Abbott,Capsule,No
+Metformin,BT018,477,439,38,245,Abbott,Injection,No
+Paracetamol,BT019,460,418,42,-76,Dr Reddy,Tablet,Yes
+ORS,BT020,311,36,275,55,Cipla,Syrup,No
+Ibuprofen,BT021,110,73,37,243,Dr Reddy,,No
+Azithromycin,BT022,349,33,316,-52,Dr Reddy,Injection,Yes
+Metformin,BT023,497,269,228,23,Cipla,Capsule,Yes
+Azithromycin,BT024,499,318,181,-48,Mankind,Capsule,Yes
+Azithromycin,BT025,141,23,118,335,Mankind,Tablet,No
+Amoxicillin,BT026,479,282,197,-65,Mankind,Syrup,Yes
+Vitamin C,BT027,219,11,208,113,Sun Pharma,Tablet,No
+Insulin,BT028,330,107,223,174,Cipla,Capsule,No
+Paracetamol,BT029,402,204,198,294,Sun Pharma,Capsule,No
+Amoxicillin,BT030,479,438,41,346,Mankind,Syrup,No
+Amoxicillin,BT031,321,240,81,161,Dr Reddy,Tablet,No
+ORS,BT032,289,18,271,365,Sun Pharma,Injection,No
+Azithromycin,BT033,292,164,128,-74,Sun Pharma,Injection,Yes
+Vitamin C,BT034,327,147,180,276,Mankind,Injection,No
+Ibuprofen,BT035,450,401,49,-69,Dr Reddy,Capsule,Yes
+Metformin,BT036,500,42,458,145,Dr Reddy,Injection,No
+Amoxicillin,BT037,348,193,155,-69,Sun Pharma,Tablet,Yes
+Insulin,BT038,214,141,73,248,Cipla,Tablet,No
+ORS,BT039,398,370,28,31,Dr Reddy,Tablet,No
+Metformin,BT040,152,102,50,220,Dr Reddy,Capsule,No
+Metformin,BT041,386,337,49,146,Mankind,Syrup,No
+Pantoprazole,BT042,163,160,3,-15,Dr Reddy,Syrup,Yes
+Azithromycin,BT043,308,308,0,15,Mankind,Tablet,Yes
+ORS,BT044,66,42,24,50,Mankind,Capsule,No
+Cetirizine,BT045,102,54,48,109,Mankind,Injection,No
+Amoxicillin,BT046,438,16,422,20,Dr Reddy,Capsule,Yes
+Cetirizine,BT047,212,87,125,218,Sun Pharma,Tablet,No
+Metformin,BT048,271,246,25,262,Cipla,Capsule,No
+Azithromycin,BT049,53,34,19,-76,Cipla,Syrup,Yes
+Cetirizine,BT050,100,10,90,333,Cipla,Syrup,No
+Amoxicillin,BT051,96,61,35,353,Mankind,Syrup,No
+Insulin,BT052,448,197,251,277,Dr Reddy,Tablet,No
+Paracetamol,BT053,153,106,47,342,Abbott,Syrup,No
+Amoxicillin,BT054,137,67,70,241,Mankind,Syrup,No
+Insulin,BT055,177,132,45,-34,Abbott,Tablet,Yes
+Paracetamol,BT056,93,4,89,259,Dr Reddy,Tablet,No
+Insulin,BT057,233,196,37,55,Sun Pharma,Syrup,No
+Pantoprazole,BT058,276,222,54,319,Abbott,Syrup,No
+Metformin,BT059,452,166,286,286,Dr Reddy,Syrup,No
+Pantoprazole,BT060,131,113,18,227,Sun Pharma,Tablet,Yes
+Insulin,BT061,222,215,7,3,Abbott,Injection,Yes
+Ibuprofen,BT062,86,61,25,-27,Cipla,Capsule,Yes
+Metformin,BT063,56,48,8,68,Dr Reddy,Syrup,Yes
+ORS,BT064,463,166,297,59,Cipla,Capsule,No
+Azithromycin,BT065,425,1,424,316,Dr Reddy,Capsule,No
+Azithromycin,BT066,169,78,91,96,Abbott,Injection,No
+Azithromycin,BT067,380,251,129,27,Sun Pharma,Tablet,Yes
+Amoxicillin,BT068,497,1,496,-1,Cipla,Capsule,Yes
+Vitamin C,BT069,210,1,209,229,Dr Reddy,Injection,No
+Paracetamol,BT070,307,198,109,84,Sun Pharma,Injection,No
+Cetirizine,BT071,226,60,166,148,Cipla,Injection,No
+Vitamin C,BT072,300,280,20,330,Mankind,Injection,Yes
+Azithromycin,BT073,171,59,112,111,Sun Pharma,Injection,No
+ORS,BT074,111,91,20,273,Sun Pharma,Tablet,Yes
+Paracetamol,BT075,409,329,80,62,Cipla,Capsule,No
+Ibuprofen,BT076,392,386,6,270,Sun Pharma,Injection,Yes
+Amoxicillin,BT077,500,215,285,336,Mankind,Syrup,No
+Amoxicillin,BT078,479,297,182,188,Sun Pharma,Tablet,No
+Pantoprazole,BT079,450,92,358,-86,Mankind,Tablet,Yes
+Ibuprofen,BT080,410,368,42,277,Dr Reddy,Capsule,No
+Vitamin C,BT081,238,152,86,131,Cipla,Tablet,No
+Metformin,BT082,204,175,29,362,Dr Reddy,Injection,No
+Insulin,BT083,296,194,102,242,Sun Pharma,Capsule,No
+Azithromycin,BT084,390,25,365,73,Mankind,Tablet,No
+Ibuprofen,BT085,464,28,436,324,Sun Pharma,Tablet,No
+Azithromycin,BT086,343,280,63,271,Abbott,Capsule,No
+Vitamin C,BT087,377,189,188,80,Cipla,Syrup,No
+Vitamin C,BT088,110,84,26,-41,Cipla,Injection,Yes
+Pantoprazole,BT089,313,181,132,167,Cipla,Injection,No
+Pantoprazole,BT090,260,249,11,37,Dr Reddy,Capsule,Yes
+Vitamin C,BT091,204,4,200,6,Abbott,Syrup,Yes
+Paracetamol,BT092,463,35,428,212,Sun Pharma,Injection,No
+Pantoprazole,BT093,103,34,69,87,Mankind,Tablet,No
+ORS,BT094,247,111,136,365,Cipla,Injection,No
+Paracetamol,BT095,201,121,80,255,Dr Reddy,Syrup,No
+Metformin,BT096,370,149,221,364,Cipla,Capsule,No
+Vitamin C,BT097,167,43,124,171,Abbott,Syrup,No
+Amoxicillin,BT098,390,191,199,-37,Cipla,Capsule,Yes
+Cetirizine,BT099,379,374,5,119,Cipla,Injection,Yes
+Metformin,BT100,317,210,107,111,Mankind,Capsule,No
